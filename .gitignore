@@ -2,3 +2,4 @@ cache/
 ArchiveRepositoryManifest.json
 PrusaSlicer.ini
 vendor/
+.DS_Store
